@@ -2,24 +2,18 @@
 
 Plugin WordPress ajoutant une bande latérale universelle avec recherche, liens rapides, overlay, newsletter et comportement responsive.
 
-## Objectif
+## 🎯 Problème
+Les sites WordPress riches en contenus peuvent manquer de raccourcis visibles vers les pages importantes : recherche, services, actualités, newsletter ou contact.
 
-Ce plugin permet d’ajouter automatiquement une bande latérale fixe sur toutes les pages d’un site WordPress.
+## 💡 Solution
+WP VPCE Side Drawer ajoute une barre latérale interactive accessible sur toutes les pages, avec recherche interne, liens rapides, overlay, formulaire newsletter et comportement responsive.
 
-Il a été conçu pour améliorer l’expérience utilisateur en donnant un accès rapide à la recherche interne, aux services principaux, aux catégories de nuisibles, aux pages institutionnelles et à un formulaire newsletter.
-
-## Fonctionnalités
-
-- Bande latérale universelle injectée via `wp_footer`
-- Onglet d’ouverture / fermeture
-- Overlay de fermeture
-- Fermeture avec la touche `ESC`
-- Blocage du scroll lorsque le menu est ouvert
-- Recherche interne WordPress
-- Liens rapides vers services et pages importantes
-- Déplacement automatique d’un formulaire newsletter existant
-- Responsive mobile
-- Code séparé en PHP, CSS et JavaScript
+## 🚀 Bénéfices
+- Améliore la navigation globale du site
+- Réduit le nombre de clics vers les pages clés
+- Valorise les contenus importants
+- Favorise l’inscription newsletter
+- Améliore l’expérience utilisateur sur desktop et mobile
 
 ## Stack utilisée
 
